@@ -1,0 +1,91 @@
+55DD684
+55DD3D4
+55DD1D4
+55DCF38
+55DCD4C
+55D60FC
+55D7614
+55D6510
+55D6314
+55D0B2C
+
+Tools::WriteAddr((void *)(UE4 + 0x55DD684), (void *)"00 00 80 D2 C0 03 5F D6", 8);
+Tools::WriteAddr((void *)(UE4 + 0x55DD3D4), (void *)"00 00 80 D2 C0 03 5F D6", 8);
+Tools::WriteAddr((void *)(UE4 + 0x55DD1D4), (void *)"00 00 80 D2 C0 03 5F D6", 8);
+Tools::WriteAddr((void *)(UE4 + 0x55DCF38), (void *)"00 00 80 D2 C0 03 5F D6", 8);
+Tools::WriteAddr((void *)(UE4 + 0x55DCD4C), (void *)"00 00 80 D2 C0 03 5F D6", 8);
+Tools::WriteAddr((void *)(UE4 + 0x55D60FC), (void *)"00 00 80 D2 C0 03 5F D6", 8);
+Tools::WriteAddr((void *)(UE4 + 0x55D7614), (void *)"00 00 80 D2 C0 03 5F D6", 8);
+Tools::WriteAddr((void *)(UE4 + 0x55D6510), (void *)"00 00 80 D2 C0 03 5F D6", 8);
+Tools::WriteAddr((void *)(UE4 + 0x55D6314), (void *)"00 00 80 D2 C0 03 5F D6", 8);
+Tools::WriteAddr((void *)(UE4 + 0x55D0B2C), (void *)"00 00 80 D2 C0 03 5F D6", 8);
+
+
+
+5610CE0
+55FDF08
+55F9EB0
+55F9C5C
+55F9A50
+55F980C
+55EE16C
+55EBE94
+55E9C24
+55DDEEC
+55DD890
+55DD684
+55DD3D4
+55DD1D4
+55DCF38
+55DCD4C
+55D6314
+55D60FC
+55D0B2C
+55C03D4
+55BEAA4
+55B1E1C
+55B0E94
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
